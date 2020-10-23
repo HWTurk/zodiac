@@ -8,9 +8,9 @@ export VIRGO_ALIAS=ky4211zodiac_virgo
 export LIBRA_ALIAS=ky4211zodiac_libra
 export ZODIAC_ALIAS=ky4211zodiac_zodiac
 export DB_ADMIN_USER=kaan
-export AAD_DOMAIN=TurkPersonal.onmicrosoft.com
-export AAD_TENANTID=25589a72-11fc-4d54-a172-7caef213a455
-export AAD_CLIENTID=b5070df4-46a1-490c-80db-31ae0c9d05a7
+export AAD_DOMAIN=xekina.onmicrosoft.com
+export AAD_TENANTID=3bc03625-3a0a-48c5-8aa5-12f22e401fff
+export AAD_CLIENTID=ccee7608-940c-42d9-ba86-a2845ef3a808
 export OUTPUT=json
 
 # Whatever you set zodiac instance to will be tagged onto your azure resources, and enable you to access all the different components as a cohesive set
