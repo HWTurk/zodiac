@@ -1,7 +1,7 @@
 name: Deploy Libra App
 env:
    DEFAULT_LOCATION: northeurope
-   LIBRA_ALIAS: ky4211libra
+   LIBRA_ALIAS: ky3740364libra
 #on:
 #  push:
 #    paths:
