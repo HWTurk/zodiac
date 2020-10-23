@@ -12,7 +12,7 @@ on: [workflow_dispatch]
 name: Deploy Sirmione App
 env:
   DEFAULT_LOCATION: northeurope
-  SIRMIONE_ALIAS: ky4211sirmione
+  SIRMIONE_ALIAS: ky3740364sirmione
 
 jobs:
   build_and_deploy:
