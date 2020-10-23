@@ -1,7 +1,7 @@
 name: Deploy Zodiac App
 env:
    DEFAULT_LOCATION: northeurope
-   ZODIAC_ALIAS: ky4211zodiac
+   ZODIAC_ALIAS: ky3740364zodiac
  
 #on:
 #  push:
