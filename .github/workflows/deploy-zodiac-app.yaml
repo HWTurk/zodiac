@@ -2,7 +2,7 @@ name: Deploy Zodiac App
 env:
    DEFAULT_LOCATION: northeurope
    ZODIAC_ALIAS: zbpzodiac
-
+ 
 #on:
 #  push:
 #    paths:
