@@ -2,7 +2,7 @@
 
 export DEFAULT_LOCATION=northeurope
 export SIRMIONE_ALIAS=ky3740364sirmione
-export LIMONE_ALIAS=kky3740364limone
+export LIMONE_ALIAS=ky3740364limone
 export SCORPIO_ALIAS=ky3740364scorpio
 export VIRGO_ALIAS=ky3740364virgo
 export LIBRA_ALIAS=ky3740364libra
